@@ -1,0 +1,18 @@
+h1{
+	color: #00f;
+	background-color: red;
+}
+
+h2{
+	font-size: italic
+	text-align: center;
+}
+
+p{
+	font-family: sans-serif;
+}
+
+ul{
+	font-size: 20px;
+	line-height: 30px;
+}
