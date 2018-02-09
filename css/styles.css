@@ -1,16 +1,10 @@
-h1{
-	color: green;
-}
-
-h2{
+p.intro{
+	width: 50%;
 	font-style: italic;
 }
 
-p{
-	font-family: sans-serif;
-}
-
-ul{
-	font-size: 2px;
-	line-height: 30px;
+p.author{
+	width: 75%;
+	font-style: italic;
+	font-weight: bold;
 }
