@@ -1,11 +1,9 @@
 h1{
-	color: #00f;
-	background-color: red;
+	color: green;
 }
 
 h2{
-	font-size: italic
-	text-align: center;
+	font-style: italic;
 }
 
 p{
@@ -13,6 +11,6 @@ p{
 }
 
 ul{
-	font-size: 20px;
+	font-size: 2px;
 	line-height: 30px;
 }
