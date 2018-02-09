@@ -26,4 +26,5 @@ p.author{
 .column{
 	width: 300px;
 	float: left;
+	background-color: green;
 }
