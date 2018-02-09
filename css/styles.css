@@ -17,3 +17,8 @@ p.author{
 	color: blue;
 }
 
+.sidebar{
+	width: 30%;
+	float: right;
+	background-color: yellow;
+}
